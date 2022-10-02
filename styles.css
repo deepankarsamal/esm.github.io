@@ -34,21 +34,21 @@ body {
 }
 
 .coords {
-  background-image: url("/img/wave-haikei\ \(3\).svg");
+  background-image: url("/img/wave-haikei-1.svg");
   background-size: contain;
   background-position: center top;
   background-repeat: no-repeat;
 }
 
 .navbar {
-  background-image: url("/img/wave-haikei\ \(4\).svg");
+  background-image: url("/img/wave-haikei-2.svg");
   background-size: contain;
   background-position: center top;
   background-repeat: no-repeat;
 }
 
 body{
-  background-image: url("/img/wave-haikei\ \(5\).svg");
+  background-image: url("/img/wave-haikei-3.svg");
   background-size: cover;
   background-position: left left;
   background-repeat: no-repeat;
